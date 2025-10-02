@@ -1,0 +1,14 @@
+--- Report generated on 2025-09-11_18:24:28 ---
+
+{
+ "topic": "Capital of France",
+ "summary": "The capital of France is Paris. It is situated on the Seine River, in the north of the country, and is also the most populous city in France.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_capitals_of_France",
+  "https://www.google.com/search?q=Capital+of+France"
+ ],
+ "tools_used": [
+  "Wikipedia",
+  "Search"
+ ]
+}
